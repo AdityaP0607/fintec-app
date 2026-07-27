@@ -1,0 +1,10 @@
+{
+  "description": "Provides personalized AI-driven investment advice for young adults by analyzing financial capacity and market trends to guide smart investment decisions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
